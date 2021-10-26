@@ -1,1 +1,370 @@
-<mxfile host="Electron" modified="2021-10-26T08:00:02.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.4.0 Chrome/91.0.4472.164 Electron/13.5.0 Safari/537.36" etag="xZjrLkYXKXNqFj03wJtq" version="15.4.0" type="device"><diagram id="uG6C4SZCxsyGisLcuNa7" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-26T09:38:07.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZVd9kBKXXjSXvkdabrOC" version="15.5.9" type="github">
+  <diagram id="uG6C4SZCxsyGisLcuNa7" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SWcinGQRg0L542iCva06-1" value="&lt;font color=&quot;#33001a&quot;&gt;&lt;b&gt;Servidor&lt;br&gt;enriquecrespo.com&lt;/b&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="340" y="350" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" parent="1" source="SWcinGQRg0L542iCva06-2" target="SWcinGQRg0L542iCva06-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-23" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="60" y="630" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-3" value="" style="group" parent="SWcinGQRg0L542iCva06-23" vertex="1" connectable="0">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kv9eWYFUjMBvoxl4r-xQ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="SWcinGQRg0L542iCva06-3" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-2" value="Nodo01" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" parent="SWcinGQRg0L542iCva06-3" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="SWcinGQRg0L542iCva06-23" vertex="1">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-9" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" parent="SWcinGQRg0L542iCva06-23" vertex="1">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="SWcinGQRg0L542iCva06-23" source="SWcinGQRg0L542iCva06-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SWcinGQRg0L542iCva06-23" source="SWcinGQRg0L542iCva06-9" target="SWcinGQRg0L542iCva06-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" parent="SWcinGQRg0L542iCva06-23" vertex="1">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-80" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" parent="SWcinGQRg0L542iCva06-23" vertex="1">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-24" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="180" y="790" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-25" value="" style="group" parent="SWcinGQRg0L542iCva06-24" vertex="1" connectable="0">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png;direction=south;" parent="SWcinGQRg0L542iCva06-25" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-27" value="Nodo02" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" parent="SWcinGQRg0L542iCva06-25" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-28" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="SWcinGQRg0L542iCva06-24" vertex="1">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-29" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" parent="SWcinGQRg0L542iCva06-24" vertex="1">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="SWcinGQRg0L542iCva06-24" source="SWcinGQRg0L542iCva06-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SWcinGQRg0L542iCva06-24" source="SWcinGQRg0L542iCva06-29" target="SWcinGQRg0L542iCva06-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" parent="SWcinGQRg0L542iCva06-24" vertex="1">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-81" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" parent="SWcinGQRg0L542iCva06-24" vertex="1">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SWcinGQRg0L542iCva06-27" target="SWcinGQRg0L542iCva06-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-36" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="345" y="820" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-37" value="" style="group" parent="SWcinGQRg0L542iCva06-36" vertex="1" connectable="0">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="SWcinGQRg0L542iCva06-37" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-39" value="Nodo03" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" parent="SWcinGQRg0L542iCva06-37" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-40" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="SWcinGQRg0L542iCva06-36" vertex="1">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-41" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" parent="SWcinGQRg0L542iCva06-36" vertex="1">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="SWcinGQRg0L542iCva06-36" source="SWcinGQRg0L542iCva06-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SWcinGQRg0L542iCva06-36" source="SWcinGQRg0L542iCva06-41" target="SWcinGQRg0L542iCva06-39" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" parent="SWcinGQRg0L542iCva06-36" vertex="1">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-82" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" parent="SWcinGQRg0L542iCva06-36" vertex="1">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-46" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="510" y="757.5" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-47" value="" style="group" parent="SWcinGQRg0L542iCva06-46" vertex="1" connectable="0">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="SWcinGQRg0L542iCva06-47" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-49" value="Nodo04" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" parent="SWcinGQRg0L542iCva06-47" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;fontColor=#33001A;endArrow=none;endFill=0;" parent="SWcinGQRg0L542iCva06-47" source="SWcinGQRg0L542iCva06-49" target="SWcinGQRg0L542iCva06-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-50" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="SWcinGQRg0L542iCva06-46" vertex="1">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-51" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" parent="SWcinGQRg0L542iCva06-46" vertex="1">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="SWcinGQRg0L542iCva06-46" source="SWcinGQRg0L542iCva06-50" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SWcinGQRg0L542iCva06-46" source="SWcinGQRg0L542iCva06-51" target="SWcinGQRg0L542iCva06-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" parent="SWcinGQRg0L542iCva06-46" vertex="1">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-83" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" parent="SWcinGQRg0L542iCva06-46" vertex="1">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-55" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="630" y="570" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-56" value="" style="group" parent="SWcinGQRg0L542iCva06-55" vertex="1" connectable="0">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="SWcinGQRg0L542iCva06-56" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-58" value="Nodo05" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" parent="SWcinGQRg0L542iCva06-56" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-59" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="SWcinGQRg0L542iCva06-55" vertex="1">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-60" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" parent="SWcinGQRg0L542iCva06-55" vertex="1">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="SWcinGQRg0L542iCva06-55" source="SWcinGQRg0L542iCva06-59" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SWcinGQRg0L542iCva06-55" source="SWcinGQRg0L542iCva06-60" target="SWcinGQRg0L542iCva06-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" parent="SWcinGQRg0L542iCva06-55" vertex="1">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-84" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" parent="SWcinGQRg0L542iCva06-55" vertex="1">
+          <mxGeometry x="26" y="45" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-64" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SWcinGQRg0L542iCva06-39" target="SWcinGQRg0L542iCva06-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-65" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="630" y="320" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-66" value="" style="group" parent="SWcinGQRg0L542iCva06-65" vertex="1" connectable="0">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="SWcinGQRg0L542iCva06-66" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-68" value="Nodo06" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" parent="SWcinGQRg0L542iCva06-66" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-69" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" parent="SWcinGQRg0L542iCva06-65" vertex="1">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-70" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" parent="SWcinGQRg0L542iCva06-65" vertex="1">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="SWcinGQRg0L542iCva06-65" source="SWcinGQRg0L542iCva06-69" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SWcinGQRg0L542iCva06-65" source="SWcinGQRg0L542iCva06-70" target="SWcinGQRg0L542iCva06-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" parent="SWcinGQRg0L542iCva06-65" vertex="1">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-85" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" parent="SWcinGQRg0L542iCva06-65" vertex="1">
+          <mxGeometry x="116" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-77" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;exitX=0;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SWcinGQRg0L542iCva06-49" target="SWcinGQRg0L542iCva06-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-78" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SWcinGQRg0L542iCva06-1" target="SWcinGQRg0L542iCva06-58" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-79" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;entryX=0.02;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.91;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SWcinGQRg0L542iCva06-1" target="SWcinGQRg0L542iCva06-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-86" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=14;fontColor=#33001A;" parent="1" vertex="1">
+          <mxGeometry x="440" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-13" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAZAAAAEKCAMAAAALnPPbAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MzM5MDhFM0EwQ0NFMTFFQkExQkJGOTAxRUVFRUZENjgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MzM5MDhFM0IwQ0NFMTFFQkExQkJGOTAxRUVFRUZENjgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozMzkwOEUzODBDQ0UxMUVCQTFCQkY5MDFFRUVFRkQ2OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozMzkwOEUzOTBDQ0UxMUVCQTFCQkY5MDFFRUVFRkQ2OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv0QFPgAAABgUExURfSOL83M1Pf3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" vertex="1" parent="1">
+          <mxGeometry x="330" y="277" width="99.25" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="316" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" vertex="1" parent="CvLdyDGHuh35WEbs6EdC-3">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-5" value="raspberry3" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="CvLdyDGHuh35WEbs6EdC-3">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-6" value="&lt;font color=&quot;#330000&quot;&gt;wemos1&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="145" y="449" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="38" y="143" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-14" value="&lt;font color=&quot;#330000&quot;&gt;wemos2&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="449" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-17" value="&lt;font color=&quot;#330000&quot;&gt;wibeee&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="210" y="449" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-18" value="&lt;font color=&quot;#330000&quot;&gt;m5atom&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="219" y="385" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-21" value="&lt;font color=&quot;#330000&quot;&gt;m5stack&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="385" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-23" value="&lt;font color=&quot;#330000&quot;&gt;m5stick&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="452.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-24" value="&lt;font color=&quot;#330000&quot;&gt;m5stickplus&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
+          <mxGeometry x="166" y="326" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="233" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" vertex="1" parent="CvLdyDGHuh35WEbs6EdC-25">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-27" value="raspberry3TT" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="CvLdyDGHuh35WEbs6EdC-25">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-38" value="&lt;b&gt;Nodo00&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="197.55" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-49" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.06;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CvLdyDGHuh35WEbs6EdC-38" target="SWcinGQRg0L542iCva06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="sourcePoint" />
+            <mxPoint x="320" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-58" value="&lt;b&gt;Servidor&lt;/b&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontColor=#330000;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="60" y="117.55000000000001" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-60" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="6" y="343" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-65" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;entryX=1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CvLdyDGHuh35WEbs6EdC-38" target="CvLdyDGHuh35WEbs6EdC-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="313" as="sourcePoint" />
+            <mxPoint x="190" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-66" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CvLdyDGHuh35WEbs6EdC-5" target="CvLdyDGHuh35WEbs6EdC-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="313" as="sourcePoint" />
+            <mxPoint x="190" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-67" value="" style="endArrow=none;html=1;rounded=0;fontColor=#330000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CvLdyDGHuh35WEbs6EdC-38" target="CvLdyDGHuh35WEbs6EdC-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="483" as="sourcePoint" />
+            <mxPoint x="560" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#330000;" edge="1" parent="1" source="CvLdyDGHuh35WEbs6EdC-27" target="CvLdyDGHuh35WEbs6EdC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-72" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="54" y="531" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry y="531" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-user-interface-10/512/941-03-128.png;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="111.5" y="522.75" width="48.5" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-77" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display;pointerEvents=1;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="166" y="524" width="34" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="CvLdyDGHuh35WEbs6EdC-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Electrical_plug_plug_plug_connector_plug_in_power_plug_2-128.png;fontColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="518" width="58" height="58" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
