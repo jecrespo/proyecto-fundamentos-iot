@@ -1,11 +1,269 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T07:33:28.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="xmf2lNeBMSyyjTaAcikZ" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T07:49:13.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="4fBrrxsRxyVNrN_bFJSW" version="15.5.9" type="github">
   <diagram id="uG6C4SZCxsyGisLcuNa7" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kv9eWYFUjMBvoxl4r-xQ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="1" vertex="1">
-          <mxGeometry x="220" y="330" width="60" height="60" as="geometry" />
+        <mxCell id="SWcinGQRg0L542iCva06-1" value="&lt;font color=&quot;#33001a&quot;&gt;&lt;b&gt;Servidor&lt;br&gt;enriquecrespo.com&lt;/b&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="SWcinGQRg0L542iCva06-2" target="SWcinGQRg0L542iCva06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="690" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="370" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-3" value="" style="group" vertex="1" connectable="0" parent="SWcinGQRg0L542iCva06-23">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kv9eWYFUjMBvoxl4r-xQ-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" parent="SWcinGQRg0L542iCva06-3" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-2" value="Nodo1" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="SWcinGQRg0L542iCva06-3">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="SWcinGQRg0L542iCva06-23">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-9" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="SWcinGQRg0L542iCva06-23">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SWcinGQRg0L542iCva06-23" source="SWcinGQRg0L542iCva06-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SWcinGQRg0L542iCva06-23" source="SWcinGQRg0L542iCva06-9" target="SWcinGQRg0L542iCva06-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-23">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-80" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="SWcinGQRg0L542iCva06-23">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="600" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-25" value="" style="group" vertex="1" connectable="0" parent="SWcinGQRg0L542iCva06-24">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png;direction=south;" vertex="1" parent="SWcinGQRg0L542iCva06-25">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-27" value="Nodo2" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="SWcinGQRg0L542iCva06-25">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-28" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="SWcinGQRg0L542iCva06-24">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-29" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="SWcinGQRg0L542iCva06-24">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SWcinGQRg0L542iCva06-24" source="SWcinGQRg0L542iCva06-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SWcinGQRg0L542iCva06-24" source="SWcinGQRg0L542iCva06-29" target="SWcinGQRg0L542iCva06-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-24">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-81" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="SWcinGQRg0L542iCva06-24">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SWcinGQRg0L542iCva06-27" target="SWcinGQRg0L542iCva06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="630" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-37" value="" style="group" vertex="1" connectable="0" parent="SWcinGQRg0L542iCva06-36">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-37">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-39" value="Nodo3" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="SWcinGQRg0L542iCva06-37">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-40" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="SWcinGQRg0L542iCva06-36">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-41" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="SWcinGQRg0L542iCva06-36">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SWcinGQRg0L542iCva06-36" source="SWcinGQRg0L542iCva06-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SWcinGQRg0L542iCva06-36" source="SWcinGQRg0L542iCva06-41" target="SWcinGQRg0L542iCva06-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-36">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-82" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="SWcinGQRg0L542iCva06-36">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="630" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-47" value="" style="group" vertex="1" connectable="0" parent="SWcinGQRg0L542iCva06-46">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-47">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-49" value="Nodo4" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="SWcinGQRg0L542iCva06-47">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;fontColor=#33001A;endArrow=none;endFill=0;" edge="1" parent="SWcinGQRg0L542iCva06-47" source="SWcinGQRg0L542iCva06-49" target="SWcinGQRg0L542iCva06-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-50" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="SWcinGQRg0L542iCva06-46">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-51" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="SWcinGQRg0L542iCva06-46">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SWcinGQRg0L542iCva06-46" source="SWcinGQRg0L542iCva06-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SWcinGQRg0L542iCva06-46" source="SWcinGQRg0L542iCva06-51" target="SWcinGQRg0L542iCva06-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-46">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-83" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="SWcinGQRg0L542iCva06-46">
+          <mxGeometry x="26" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="585" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-56" value="" style="group" vertex="1" connectable="0" parent="SWcinGQRg0L542iCva06-55">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-56">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-58" value="Nodo5" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="SWcinGQRg0L542iCva06-56">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-59" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="SWcinGQRg0L542iCva06-55">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-60" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="SWcinGQRg0L542iCva06-55">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-61" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SWcinGQRg0L542iCva06-55" source="SWcinGQRg0L542iCva06-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SWcinGQRg0L542iCva06-55" source="SWcinGQRg0L542iCva06-60" target="SWcinGQRg0L542iCva06-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-55">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-84" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="SWcinGQRg0L542iCva06-55">
+          <mxGeometry x="26" y="45" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-64" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;exitX=1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SWcinGQRg0L542iCva06-39" target="SWcinGQRg0L542iCva06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="630" y="320" width="140" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-66" value="" style="group" vertex="1" connectable="0" parent="SWcinGQRg0L542iCva06-65">
+          <mxGeometry x="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/272_Raspberry_Pi-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-66">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-68" value="Nodo1" style="fontColor=#33001A;verticalAlign=bottom;verticalLabelPosition=top;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_hub;fontSize=14;fontStyle=1;spacingBottom=5;" vertex="1" parent="SWcinGQRg0L542iCva06-66">
+          <mxGeometry x="10" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-69" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="SWcinGQRg0L542iCva06-65">
+          <mxGeometry y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-70" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.sensor;" vertex="1" parent="SWcinGQRg0L542iCva06-65">
+          <mxGeometry x="90" y="127.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SWcinGQRg0L542iCva06-65" source="SWcinGQRg0L542iCva06-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="80" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SWcinGQRg0L542iCva06-65" source="SWcinGQRg0L542iCva06-70" target="SWcinGQRg0L542iCva06-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="110" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/innovation-technology-2/512/tech_0007-128.png" vertex="1" parent="SWcinGQRg0L542iCva06-65">
+          <mxGeometry x="50" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-85" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontSize=14;fontColor=#33001A;" vertex="1" parent="SWcinGQRg0L542iCva06-65">
+          <mxGeometry x="116" y="40" width="24" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-77" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;exitX=0;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SWcinGQRg0L542iCva06-49" target="SWcinGQRg0L542iCva06-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-78" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;entryX=0;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SWcinGQRg0L542iCva06-1" target="SWcinGQRg0L542iCva06-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-79" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#33001A;entryX=0.02;entryY=0.94;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.91;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SWcinGQRg0L542iCva06-1" target="SWcinGQRg0L542iCva06-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="440" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWcinGQRg0L542iCva06-86" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;fontSize=14;fontColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
